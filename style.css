@@ -1,0 +1,40 @@
+/* CSS Document */
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: #4A4646;
+}
+body
+{
+	background: #C8C8C8;	
+}
+.profile-img
+{
+	width: 1%;
+	float: left;
+	
+}
+.row
+{
+	width: inherit;
+	text-align: center;
+	
+}
+.profile
+{
+	text-align: left;
+}
+.box1
+{
+	text-align: justify;
+}
+.rightside
+{
+	text-align: center;
+}
+.Ach
+{
+	text-align: center;
+}
